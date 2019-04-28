@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "909264902801",
+    "firebase_url": "https://taskit-27c31.firebaseio.com",
+    "project_id": "taskit-27c31",
+    "storage_bucket": "taskit-27c31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909264902801:android:431ee9018f2fa81c",
+        "android_client_info": {
+          "package_name": "com.mmanchala.coen268.taskit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909264902801-n0shhaub20s8bv36hsjh6vkv6eah3ed4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZXu8F5mcP8igAU35OGAsbdwTCqZ3l_nc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
